@@ -1,4 +1,4 @@
-baseURL = 'https://jaewoolee.com/'
+baseURL = 'https://jaewoo-lee.com/'
 languageCode = 'en-us'
 title = 'jaewoolee'
 theme = "hugo-theme-console"
