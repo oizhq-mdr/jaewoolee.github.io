@@ -1,6 +1,6 @@
 baseURL = 'https://jaewoolee.com/'
 languageCode = 'en-us'
-title = 'Jaewoo Lee'
+title = 'jaewoolee'
 theme = "hugo-theme-console"
 
 [params]
@@ -12,9 +12,9 @@ theme = "hugo-theme-console"
   url = "/about/"
 
 [[params.navlinks]]
-  name = "Posts"
-  url = "/posts/"
+  name = "Project"
+  url = "/project/"
 
 [[params.navlinks]]
-  name = "Photos"
-  url = "/photos/"
+  name = "CV"
+  url = "/CV/"
